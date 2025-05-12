@@ -1,4 +1,4 @@
-谢盼盼的毕业论文第二章
+Leo的毕业论文第二章
 
 1. 安装bokeh库 pip install bokeh
 
